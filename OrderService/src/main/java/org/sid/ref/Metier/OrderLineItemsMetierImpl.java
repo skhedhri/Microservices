@@ -1,9 +1,6 @@
 package org.sid.ref.Metier;
 
-import com.netflix.discovery.converters.Auto;
 import org.sid.ref.Dao.OrderLineItemsRepository;
-import org.sid.ref.Dao.OrderRepository;
-import org.sid.ref.Model.Order;
 import org.sid.ref.Model.OrderLineItems;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

@@ -10,8 +10,8 @@
     </parent>
     <groupId>org.sid</groupId>
     <artifactId>ref</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
-    <name>ref</name>
+    <version>0.0.1-OrderService</version>
+    <name>OrderService</name>
     <description>Demo project for Spring Boot</description>
     <properties>
         <java.version>1.8</java.version>
